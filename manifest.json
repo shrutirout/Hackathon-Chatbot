@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Localhost 8501 Runner",
+  "version": "1.0",
+  "description": "Run http://localhost:8501/ in a Chrome tab",
+  "permissions": ["activeTab"],
+  "icons": {
+    "128": "moveworks.jpg"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "moveworks.jpg"
+    }
+  }
+}
