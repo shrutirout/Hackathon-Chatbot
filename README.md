@@ -18,13 +18,3 @@ The chatbot is designed to train itself on the content of any website, enabling 
 - Frontend: HTML, CSS, JavaScript   
 ---
 
- 
-
-
-
-## 📜 **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if there’s anything more you’d like to include, like a demo GIF or example commands! 😊
