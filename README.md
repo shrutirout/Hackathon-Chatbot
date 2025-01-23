@@ -5,8 +5,8 @@ The chatbot is designed to train itself on the content of any website, enabling 
 
 ---
 ## 📋 **Features**
-- **Website Training**  
-  - The chatbot scrapes and learns from the content of any website, adapting to its domain.  
+- **Website Embedding and Training**  
+  - The chatbot scrapes and embeds content from a given website, learning and adapting to its domain.
 - **Dynamic Conversational AI**  
   - Engages users in meaningful conversations with accurate, domain-specific responses.  
 - **User-Friendly Interface**  
@@ -15,6 +15,5 @@ The chatbot is designed to train itself on the content of any website, enabling 
 ---
 ## 💻 **Tech Stack**
 - Backend: Python   
-- Frontend: HTML, CSS, JavaScript   
+- Frontend: Streamlit (Python library)
 ---
-
