@@ -17,3 +17,10 @@ The chatbot is designed to train itself on the content of any website, enabling 
 - Backend: Python   
 - Frontend: Streamlit (Python library)
 ---
+
+Snapshot of the Chatbot in action:
+
+![img](https://github.com/user-attachments/assets/ece058d2-b866-48ad-828e-e8404d40cb6e)
+
+---
+
