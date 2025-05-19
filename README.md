@@ -20,7 +20,7 @@ The chatbot is designed to train itself on the content of any website, enabling 
 
 Snapshot of the Chatbot in action:
 
-![img](https://github.com/user-attachments/assets/ece058d2-b866-48ad-828e-e8404d40cb6e)
+![img](https://github.com/user-attachments/assets/2f60038f-3310-4d8a-b50b-014a8124df4a)
 
 ---
 
